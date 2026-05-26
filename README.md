@@ -1,7 +1,11 @@
 # EXP-2
-EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
+
+EXPT NO: 2 
+
+OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 Aim:
+
 To conduct load test on separately excited generators and to obtain the characteristics
 
 Apparatus Required:
@@ -30,7 +34,9 @@ Precautions
 2.   Generator side field rheostat should be kept at maximum resistance position.
 3.   Starter should be in off position before switching on the supply.
 4.   The DPST switch must be kept open.Procedure for open circuit test
+
 Procedure
+
 1.   Connections are given as per the circuit diagram.
 2.   The motor is started with the help of THREE POINT starter.
 3.   Adjust the motor speed to rated speed by adjusting motor field rheostat when the generator is disconnected from the load by DPST switch 2.
@@ -49,15 +55,30 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
+<img width="1600" height="1566" alt="image" src="https://github.com/user-attachments/assets/9d5a4f28-9908-4ea6-b92c-4e5daccbbadf" />
+
+
 Tabulation for Load Test:
 
+<img width="1600" height="1248" alt="image" src="https://github.com/user-attachments/assets/f1af1223-e440-44f9-9f61-baf60765ee11" />
+
+
 Model graph:
+
+<img width="1266" height="1312" alt="image" src="https://github.com/user-attachments/assets/6e97c861-cb79-4c72-914d-01ba57d78760" />
+
 Calculation: 
 
 Open circuit characteristics
 
+<img width="969" height="880" alt="image" src="https://github.com/user-attachments/assets/9ee786b4-8750-4d75-9ebd-3b0dd6bbe819" />
+
+
   
 Load Characteristics:
+
+<img width="950" height="759" alt="image" src="https://github.com/user-attachments/assets/e83be75b-7aa5-4798-bfd6-f12de162647e" />
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
